@@ -1,0 +1,11 @@
+{
+  "epocas": 25,
+  "tamanho_lote": 64,
+  "taxa_aprendizado": 0.001,
+  "beta": 0.01,
+  "dim_latente": 12,
+  "proporcao_validacao": 0.1,
+  "semente": 42,
+  "dispositivo": "cpu",
+  "quantidade_imagens": 300
+}

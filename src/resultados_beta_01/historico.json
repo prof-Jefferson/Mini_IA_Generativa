@@ -1,0 +1,227 @@
+[
+  {
+    "epoca": 1.0,
+    "treino_total": 103.74873289885345,
+    "treino_reconstrucao": 103.63996175130208,
+    "treino_kl": 1.087710369957818,
+    "validacao_total": 86.77798461914062,
+    "validacao_reconstrucao": 85.88729095458984,
+    "validacao_kl": 8.90697193145752
+  },
+  {
+    "epoca": 2.0,
+    "treino_total": 69.54474829214591,
+    "treino_reconstrucao": 66.7821989553946,
+    "treino_kl": 27.6254958541305,
+    "validacao_total": 60.068687438964844,
+    "validacao_reconstrucao": 52.66587829589844,
+    "validacao_kl": 74.02809143066406
+  },
+  {
+    "epoca": 3.0,
+    "treino_total": 52.61553765756113,
+    "treino_reconstrucao": 47.25942696465386,
+    "treino_kl": 53.56110803109628,
+    "validacao_total": 45.90587615966797,
+    "validacao_reconstrucao": 43.94975662231445,
+    "validacao_kl": 19.561185836791992
+  },
+  {
+    "epoca": 4.0,
+    "treino_total": 45.17406893129702,
+    "treino_reconstrucao": 43.8616862544307,
+    "treino_kl": 13.123829113995587,
+    "validacao_total": 44.97480773925781,
+    "validacao_reconstrucao": 44.14459228515625,
+    "validacao_kl": 8.302165031433105
+  },
+  {
+    "epoca": 5.0,
+    "treino_total": 44.167993248833554,
+    "treino_reconstrucao": 43.30015600698965,
+    "treino_kl": 8.678377949749981,
+    "validacao_total": 44.01893615722656,
+    "validacao_reconstrucao": 42.98775863647461,
+    "validacao_kl": 10.311763763427734
+  },
+  {
+    "epoca": 6.0,
+    "treino_total": 42.96404000741464,
+    "treino_reconstrucao": 42.03088192409939,
+    "treino_kl": 9.331571024435538,
+    "validacao_total": 42.81940841674805,
+    "validacao_reconstrucao": 42.149539947509766,
+    "validacao_kl": 6.698673725128174
+  },
+  {
+    "epoca": 7.0,
+    "treino_total": 42.226052036991824,
+    "treino_reconstrucao": 41.704666985405815,
+    "treino_kl": 5.213845961182206,
+    "validacao_total": 43.07986831665039,
+    "validacao_reconstrucao": 42.72615432739258,
+    "validacao_kl": 3.5371267795562744
+  },
+  {
+    "epoca": 8.0,
+    "treino_total": 42.28145195289894,
+    "treino_reconstrucao": 41.95818066067166,
+    "treino_kl": 3.2327067180916114,
+    "validacao_total": 42.70164108276367,
+    "validacao_reconstrucao": 42.34123992919922,
+    "validacao_kl": 3.6040289402008057
+  },
+  {
+    "epoca": 9.0,
+    "treino_total": 41.947313209816265,
+    "treino_reconstrucao": 41.56160275494611,
+    "treino_kl": 3.8571117189195423,
+    "validacao_total": 42.54408645629883,
+    "validacao_reconstrucao": 42.11738204956055,
+    "validacao_kl": 4.267049312591553
+  },
+  {
+    "epoca": 10.0,
+    "treino_total": 41.795031003598815,
+    "treino_reconstrucao": 41.40113923814562,
+    "treino_kl": 3.9389168598033764,
+    "validacao_total": 42.28355407714844,
+    "validacao_reconstrucao": 41.961917877197266,
+    "validacao_kl": 3.2163476943969727
+  },
+  {
+    "epoca": 11.0,
+    "treino_total": 41.74540170740198,
+    "treino_reconstrucao": 41.45456367775246,
+    "treino_kl": 2.908387530291522,
+    "validacao_total": 42.78538131713867,
+    "validacao_reconstrucao": 42.496829986572266,
+    "validacao_kl": 2.8855230808258057
+  },
+  {
+    "epoca": 12.0,
+    "treino_total": 41.647567664252385,
+    "treino_reconstrucao": 41.3468672575774,
+    "treino_kl": 3.007004827923245,
+    "validacao_total": 42.35944366455078,
+    "validacao_reconstrucao": 42.012046813964844,
+    "validacao_kl": 3.4739670753479004
+  },
+  {
+    "epoca": 13.0,
+    "treino_total": 41.62946449562355,
+    "treino_reconstrucao": 41.276370719627096,
+    "treino_kl": 3.530940059379295,
+    "validacao_total": 42.4566535949707,
+    "validacao_reconstrucao": 42.098812103271484,
+    "validacao_kl": 3.578420877456665
+  },
+  {
+    "epoca": 14.0,
+    "treino_total": 41.74030897352431,
+    "treino_reconstrucao": 41.39905053597909,
+    "treino_kl": 3.41258607617131,
+    "validacao_total": 42.22185134887695,
+    "validacao_reconstrucao": 41.8629264831543,
+    "validacao_kl": 3.5892443656921387
+  },
+  {
+    "epoca": 15.0,
+    "treino_total": 41.492398466887295,
+    "treino_reconstrucao": 41.12965443929036,
+    "treino_kl": 3.6274427661189326,
+    "validacao_total": 42.36293029785156,
+    "validacao_reconstrucao": 41.97955322265625,
+    "validacao_kl": 3.8337769508361816
+  },
+  {
+    "epoca": 16.0,
+    "treino_total": 41.46226639924226,
+    "treino_reconstrucao": 41.08138831809715,
+    "treino_kl": 3.808786632396557,
+    "validacao_total": 42.08162307739258,
+    "validacao_reconstrucao": 41.689720153808594,
+    "validacao_kl": 3.919044017791748
+  },
+  {
+    "epoca": 17.0,
+    "treino_total": 41.46174570719401,
+    "treino_reconstrucao": 41.07711856983326,
+    "treino_kl": 3.8462848133511014,
+    "validacao_total": 42.15654754638672,
+    "validacao_reconstrucao": 41.771175384521484,
+    "validacao_kl": 3.853724718093872
+  },
+  {
+    "epoca": 18.0,
+    "treino_total": 41.449124569363065,
+    "treino_reconstrucao": 41.06851015444155,
+    "treino_kl": 3.8061399777730305,
+    "validacao_total": 42.04267120361328,
+    "validacao_reconstrucao": 41.6468620300293,
+    "validacao_kl": 3.9580976963043213
+  },
+  {
+    "epoca": 19.0,
+    "treino_total": 41.423442105893734,
+    "treino_reconstrucao": 41.027667151557075,
+    "treino_kl": 3.957757420010037,
+    "validacao_total": 42.01314926147461,
+    "validacao_reconstrucao": 41.61165237426758,
+    "validacao_kl": 4.014955043792725
+  },
+  {
+    "epoca": 20.0,
+    "treino_total": 41.427873371265555,
+    "treino_reconstrucao": 41.04046876695421,
+    "treino_kl": 3.8740501915967025,
+    "validacao_total": 42.20457077026367,
+    "validacao_reconstrucao": 41.83718490600586,
+    "validacao_kl": 3.673867702484131
+  },
+  {
+    "epoca": 21.0,
+    "treino_total": 41.367662330910015,
+    "treino_reconstrucao": 41.02701365152995,
+    "treino_kl": 3.406481656321773,
+    "validacao_total": 42.027069091796875,
+    "validacao_reconstrucao": 41.70326614379883,
+    "validacao_kl": 3.2380282878875732
+  },
+  {
+    "epoca": 22.0,
+    "treino_total": 41.28352528324834,
+    "treino_reconstrucao": 40.948806819209345,
+    "treino_kl": 3.347185461609452,
+    "validacao_total": 41.96971893310547,
+    "validacao_reconstrucao": 41.61735534667969,
+    "validacao_kl": 3.523625612258911
+  },
+  {
+    "epoca": 23.0,
+    "treino_total": 41.28774555347584,
+    "treino_reconstrucao": 40.94582742761683,
+    "treino_kl": 3.4191835597709375,
+    "validacao_total": 42.089656829833984,
+    "validacao_reconstrucao": 41.772464752197266,
+    "validacao_kl": 3.17193341255188
+  },
+  {
+    "epoca": 24.0,
+    "treino_total": 41.34368899310077,
+    "treino_reconstrucao": 41.033350965711804,
+    "treino_kl": 3.1033882829878063,
+    "validacao_total": 42.17888259887695,
+    "validacao_reconstrucao": 41.86630630493164,
+    "validacao_kl": 3.125762939453125
+  },
+  {
+    "epoca": 25.0,
+    "treino_total": 41.26108816641349,
+    "treino_reconstrucao": 40.94587862933123,
+    "treino_kl": 3.1520936365480776,
+    "validacao_total": 42.255069732666016,
+    "validacao_reconstrucao": 41.93052291870117,
+    "validacao_kl": 3.2454590797424316
+  }
+]

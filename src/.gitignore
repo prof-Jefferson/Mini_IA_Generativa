@@ -1,0 +1,30 @@
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Cache e arquivos temporários do Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Metadados de ferramentas e IDEs
+.coverage
+htmlcov/
+.idea/
+.vscode/
+
+# Dados, resultados e pesos gerados localmente
+dados/
+resultados/
+pesos/
+*.pt
+*.pth
+*.ckpt
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
